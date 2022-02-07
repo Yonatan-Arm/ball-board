@@ -4,9 +4,9 @@ var BALL = 'BALL';
 var GAMER = 'GAMER';
 var GLOW= 'GLOW';
 
-var GAMER_IMG = '<img src="img/gamer.png" />';
-var BALL_IMG = '<img src="img/ball.png" />';
-var GLOW_IMG = '<img src="img/candy.png" />';
+var GAMER_IMG = '<img src="gamer.png" />';
+var BALL_IMG = '<img src="ball.png" />';
+var GLOW_IMG = '<img src="candy.png" />';
 
 var audioObj = new Audio('audio/Ding.mp3');
 
